@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>React on HKUST Tech Club</title>
-    <link>http://hkusttech.github.io/tags/react/</link>
+    <link>https://hkusttech.github.io/tags/react/</link>
     <description>Recent content in React on HKUST Tech Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 02 Mar 2018 09:47:12 +0800</lastBuildDate>
     
-	<atom:link href="http://hkusttech.github.io/tags/react/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hkusttech.github.io/tags/react/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Second Meeting - React workshop</title>
-      <link>http://hkusttech.github.io/events/second-meeting-react/</link>
+      <link>https://hkusttech.github.io/events/second-meeting-react/</link>
       <pubDate>Fri, 02 Mar 2018 09:47:12 +0800</pubDate>
       
-      <guid>http://hkusttech.github.io/events/second-meeting-react/</guid>
+      <guid>https://hkusttech.github.io/events/second-meeting-react/</guid>
       <description>Date and Venue React workshop by lovely Christine and hang out. The event was scheduled from 7 - 8PM at Rm 2466
 After that some of us would be joining our friends at the LGBTQ+ launch party (@LG4 Student Commons 3) feel free to join us at their event!
 Summary Session #2 on React where Christine went through the front end &amp;amp; backend of a project (more info of the session will be posted on slack) she&amp;rsquo;s working on right now (round of applause!</description>
