@@ -27,7 +27,7 @@ git pull                     # receive the latest update
 
 ### How to publish a new event?
 
-- Simple. No need to modify **Any HTML**
+- Simple. No need to modify **ANY HTML**
 - Inside the `content/events` folder
   - Copy `template` folder *(or create a new folder)* as `[new event name]`
     - Put images (*.png, *.jpg, ...) and other content for this event

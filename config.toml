@@ -18,8 +18,8 @@ title = "HKUST Tech Club"
     backgroundColor = "white"
     font = "Raleway" # should match the name on Google Fonts!
     highlight = true
-    highlightStyle = "solarized-dark"
-    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift", "react", "general"]
+    highlightStyle = "github"
+    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift", "java", "javascript"]
     copyright = "HKUST Tech Club team 2018"
 
 [[menu.main]]
