@@ -1,4 +1,5 @@
 {
+  "homepage": "https://hkusttech.github.io",
   "name": "hkusttech",
   "version": "1.0.0",
   "license": "MIT",
@@ -9,6 +10,6 @@
     "predeploy": "yarn run build",
     "build": "hugo",
     "debug": "hugo server -D",
-    "deploy": "gh-pages -d public"
+    "deploy": "gh-pages -b master -d public"
   }
 }

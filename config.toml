@@ -1,5 +1,5 @@
 theme = "minimal"  # Use the minimal theme as the base
-baseURL = "http://example.org/"
+baseURL = "https://hkusttech.github.io/"
 languageCode = "en-us"
 title = "HKUST Tech Club"
 
