@@ -10,6 +10,12 @@
 
         <h2>{{ markdownify .Site.Params.Description }}</h2>
 
+        <hr>
+        <h3>Poplular tags:</h3>
+        {{ range first 10 .Site.Taxonomies.tags.ByCount }}
+        <a href="/tags/{{ .Name | urlize }}"><kbd class="item-tag">{{ .Name }}</kbd> </a>
+        {{ end }}
+
     </div>
 
 </main>
