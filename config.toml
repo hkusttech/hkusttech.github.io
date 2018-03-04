@@ -2,8 +2,7 @@ theme = "minimal"  # Use the minimal theme as the base
 baseURL = "https://hkusttech.github.io/"
 languageCode = "en-us"
 title = "HKUST Tech Club"
-
-#disqusShortname = "username" # delete this to disable disqus comments
+disqusShortname = "hkpeterpeter" # delete this to disable disqus comments
 #googleAnalytics = ""
 
 [taxonomies]
