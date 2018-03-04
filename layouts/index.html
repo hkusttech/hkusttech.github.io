@@ -8,10 +8,10 @@
 
         <h1>{{ .Site.Title }}</h1>
 
-        <h2>{{ markdownify .Site.Params.Description }}</h2>
+        <h3>{{ markdownify .Site.Params.Description }}</h3>
 
         <hr>
-        <h3>Poplular tags:</h3>
+        <strong>Poplular tags:</strong>
         {{ range first 10 .Site.Taxonomies.tags.ByCount }}
         <a href="/tags/{{ .Name | urlize }}"><kbd class="item-tag">{{ .Name }}</kbd> </a>
         {{ end }}
