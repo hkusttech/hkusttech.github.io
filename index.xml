@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HKUST Tech Club</title>
+    <link>http://hkusttech.github.io/</link>
+    <description>Recent content on HKUST Tech Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Mar 2018 09:12:16 +0800</lastBuildDate>
+    
+	<atom:link href="http://hkusttech.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://hkusttech.github.io/about/</link>
+      <pubDate>Sun, 04 Mar 2018 09:12:16 +0800</pubDate>
+      
+      <guid>http://hkusttech.github.io/about/</guid>
+      <description>History HKUST Tech Club was co-founded by Tania and JinYong in 2018 The team is student-driven with a mission to connect like-minded tech talent.</description>
+    </item>
+    
+    <item>
+      <title>Second Meeting - React workshop</title>
+      <link>http://hkusttech.github.io/events/second-meeting-react/</link>
+      <pubDate>Fri, 02 Mar 2018 09:47:12 +0800</pubDate>
+      
+      <guid>http://hkusttech.github.io/events/second-meeting-react/</guid>
+      <description>Date and Venue React workshop by lovely Christine and hang out. The event was scheduled from 7 - 8PM at Rm 2466
+After that some of us would be joining our friends at the LGBTQ+ launch party (@LG4 Student Commons 3) feel free to join us at their event!
+Summary Session #2 on React where Christine went through the front end &amp;amp; backend of a project (more info of the session will be posted on slack) she&amp;rsquo;s working on right now (round of applause!</description>
+    </item>
+    
+    <item>
+      <title>HKUST Tech Club - First Meeting</title>
+      <link>http://hkusttech.github.io/events/first-meeting/</link>
+      <pubDate>Sat, 24 Feb 2018 09:47:12 +0800</pubDate>
+      
+      <guid>http://hkusttech.github.io/events/first-meeting/</guid>
+      <description>Date and Venue The first meeting was successfully be held on 2018-02-24 at 7pm. The meeting venue was CSE lounge and it is located at lift 25-26, 3rd floor.
+Summary Thank you so much for coming to our first meeting. It was exciting to witness the level of interest all of you have, in technology first hand.
+We have decided to create 4 groups: Data visualization, React, algorithms , Decentralised systems.</description>
+    </item>
+    
+  </channel>
+</rss>
