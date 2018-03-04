@@ -1,0 +1,14 @@
+{
+  "name": "hkusttech",
+  "version": "1.0.0",
+  "license": "MIT",
+  "devDependencies": {
+    "gh-pages": "^1.1.0"
+  },
+  "scripts" : {
+    "predeploy": "yarn run build",
+    "build": "hugo",
+    "debug": "hugo server -D",
+    "deploy": "gh-pages -d public"
+  }
+}
