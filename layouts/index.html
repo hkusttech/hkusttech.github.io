@@ -11,7 +11,7 @@
         <h3>{{ markdownify .Site.Params.Description }}</h3>
 
         <hr>
-        <strong>Poplular tags:</strong>
+        <strong>Popular tags:</strong>
         {{ range first 10 .Site.Taxonomies.tags.ByCount }}
         <a href="/tags/{{ .Name | urlize }}"><kbd class="item-tag">{{ .Name }}</kbd> </a>
         {{ end }}
