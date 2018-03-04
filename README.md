@@ -37,6 +37,7 @@ git pull                     # receive the latest update
     - Modify the tags 
     - Edit the content using **markdown** language. [Markdown reference](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
+
 ### How to test the website?
 
 ```sh
@@ -46,6 +47,11 @@ yarn run build    # Build the web site content in the public folder (only non-dr
 
 ### How to deploy?
 
+The first 3 steps can be done by GitHub GUI tool
+
 ```sh
-yarn run deploy   # Deploy to the github page. 
+git checkout dev     # Switch to the dev branch 
+git add .            # Added all changes 
+git commit -m [msg]  # Commit all changes to the dev branch 
+yarn run deploy      # Deploy the dev branch to the github page. 
 ```
