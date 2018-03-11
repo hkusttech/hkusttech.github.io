@@ -12,7 +12,10 @@ body {
 main {
     margin: auto;
     padding: 25px;
+    display: flex;
     flex: 1 0 auto;
+    flex-direction: column;
+    justify-content: center;
     max-width: 750px;
 }
 
@@ -25,7 +28,7 @@ main {
 /*home page*/
 
 .intro {
-    transform: translateY(15vh);
+    /*transform: translateY(15vh);*/
 }
 
 .intro > h1 {

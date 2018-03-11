@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pcb on HKUST Tech Club</title>
+    <link>https://hkusttech.github.io/tags/pcb/</link>
+    <description>Recent content in Pcb on HKUST Tech Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Mar 2018 09:47:12 +0800</lastBuildDate>
+    
+	<atom:link href="https://hkusttech.github.io/tags/pcb/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Third Meeting - KiCAD workshop &#43; Coding game</title>
+      <link>https://hkusttech.github.io/events/third-meeting-pcb/</link>
+      <pubDate>Fri, 09 Mar 2018 09:47:12 +0800</pubDate>
+      
+      <guid>https://hkusttech.github.io/events/third-meeting-pcb/</guid>
+      <description>Date and Venue The event was scheduled from 7 - 9PM at Rm 2466 on 09-Mar-2018.
+ Part 1: KiCAD workshop by Markus Part 2: Coding game session  Summary Thank you everyone who came to our 3rd workshop last Friday. And huge applause to our amazing presenter Markus for giving us a thorough demonstration of how to use KiCAD. Anyone who is interested in KiCAD and would like to know more, please contact Markus!</description>
+    </item>
+    
+  </channel>
+</rss>
