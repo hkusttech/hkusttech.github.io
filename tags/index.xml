@@ -6,10 +6,19 @@
     <description>Recent content in Tags on HKUST Tech Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Feb 2018 09:47:12 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 18 Mar 2018 09:47:12 +0800</lastBuildDate>
     
 	<atom:link href="https://hkusttech.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Blockchain</title>
+      <link>https://hkusttech.github.io/tags/blockchain/</link>
+      <pubDate>Sun, 18 Mar 2018 09:47:12 +0800</pubDate>
+      
+      <guid>https://hkusttech.github.io/tags/blockchain/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>General</title>
@@ -44,6 +53,15 @@
       <pubDate>Fri, 02 Mar 2018 09:47:12 +0800</pubDate>
       
       <guid>https://hkusttech.github.io/tags/react/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smart Contract</title>
+      <link>https://hkusttech.github.io/tags/smart-contract/</link>
+      <pubDate>Sun, 18 Mar 2018 09:47:12 +0800</pubDate>
+      
+      <guid>https://hkusttech.github.io/tags/smart-contract/</guid>
       <description></description>
     </item>
     
