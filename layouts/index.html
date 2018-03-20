@@ -6,12 +6,14 @@
 
         {{ with .Site.Params.profilePic }} <img class="profile" src="{{ . }}"> {{ end }}
 
-        <h1>{{ .Site.Title }}</h1>
+        <img src="ust-tech.svg" alt="HKUST Tech Club Logo">
 
-        <h3>{{ markdownify .Site.Params.Description }}</h3>
+        <h4>{{ .Site.Title }}</h4>
+
+        <h5>{{ markdownify .Site.Params.Description }}</h5>
 
         <hr>
-        <strong>Popular tags:</strong>
+     
         {{ range first 10 .Site.Taxonomies.tags.ByCount }}
         <a href="/tags/{{ .Name | urlize }}"><kbd class="item-tag">{{ .Name }}</kbd> </a>
         {{ end }}
