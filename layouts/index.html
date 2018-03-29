@@ -13,7 +13,7 @@
         <h5>{{ markdownify .Site.Params.Description }}</h5>
 
         <hr>
-     
+
         {{ range first 10 .Site.Taxonomies.tags.ByCount }}
         <a href="/tags/{{ .Name | urlize }}"><kbd class="item-tag">{{ .Name }}</kbd> </a>
         {{ end }}
