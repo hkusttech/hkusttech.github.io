@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blockchain on HKUST Tech Club</title>
-    <link>https://hkusttech.github.io/tags/blockchain/</link>
-    <description>Recent content in Blockchain on HKUST Tech Club</description>
+    <title>Fintech on HKUST Tech Club</title>
+    <link>https://hkusttech.github.io/tags/fintech/</link>
+    <description>Recent content in Fintech on HKUST Tech Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 25 Mar 2018 09:47:12 +0800</lastBuildDate>
     
-	<atom:link href="https://hkusttech.github.io/tags/blockchain/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hkusttech.github.io/tags/fintech/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,17 +19,6 @@
       <guid>https://hkusttech.github.io/events/fifth-meeting-blockchain/</guid>
       <description>Date and Venue The fifth meeting was successfully be held on 2018-03-25 at 7pm. The meeting venue was CSE lounge and it is located at lift 25-26, 3rd floor.
 Summary Last Friday we were honored to have Professor Paul Schulte to share with us his research and views on Blockchain and its current application in Fintech and Insurance. The interactive discussions we had revolved around: how blockchain can break down cartels, which cartels are utilizing this technology to maintain their position, what blockchain technology revolution is needed to truly build a decentralized system to benefit those who are cut off&amp;hellip;etc.</description>
-    </item>
-    
-    <item>
-      <title>Forth Meeting - How to Build a Smart Contract in 30 minutes?</title>
-      <link>https://hkusttech.github.io/events/forth-meeting-smart-contract/</link>
-      <pubDate>Sun, 18 Mar 2018 09:47:12 +0800</pubDate>
-      
-      <guid>https://hkusttech.github.io/events/forth-meeting-smart-contract/</guid>
-      <description>Date and Venue The forth meeting was successfully be held on 2018-03-18 at 7pm. The meeting venue was CSE lounge and it is located at lift 25-26, 3rd floor.
-Summary Thanks for coming to our 4th Tech Club Meeting - special thanks to Jeff and 李婷婷 for giving an interactive workshop on &amp;ldquo;How to Build a Smart Contract in 30 minutes&amp;rdquo;
-We also played MENSA games prior the workshop and Codigame afterwards.</description>
     </item>
     
   </channel>

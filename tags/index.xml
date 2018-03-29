@@ -6,7 +6,7 @@
     <description>Recent content in Tags on HKUST Tech Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Mar 2018 09:47:12 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 25 Mar 2018 09:47:12 +0800</lastBuildDate>
     
 	<atom:link href="https://hkusttech.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>Blockchain</title>
       <link>https://hkusttech.github.io/tags/blockchain/</link>
-      <pubDate>Sun, 18 Mar 2018 09:47:12 +0800</pubDate>
+      <pubDate>Sun, 25 Mar 2018 09:47:12 +0800</pubDate>
       
       <guid>https://hkusttech.github.io/tags/blockchain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fintech</title>
+      <link>https://hkusttech.github.io/tags/fintech/</link>
+      <pubDate>Sun, 25 Mar 2018 09:47:12 +0800</pubDate>
+      
+      <guid>https://hkusttech.github.io/tags/fintech/</guid>
       <description></description>
     </item>
     
@@ -35,6 +44,15 @@
       <pubDate>Fri, 09 Mar 2018 09:47:12 +0800</pubDate>
       
       <guid>https://hkusttech.github.io/tags/hardware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Insurance</title>
+      <link>https://hkusttech.github.io/tags/insurance/</link>
+      <pubDate>Sun, 25 Mar 2018 09:47:12 +0800</pubDate>
+      
+      <guid>https://hkusttech.github.io/tags/insurance/</guid>
       <description></description>
     </item>
     

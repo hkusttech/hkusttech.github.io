@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://hkusttech.github.io/events/fifth-meeting-blockchain/</loc>
+    <lastmod>2018-03-25T09:47:12+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hkusttech.github.io/events/forth-meeting-smart-contract/</loc>
     <lastmod>2018-03-18T09:47:12+08:00</lastmod>
   </url>
@@ -29,13 +34,19 @@
   
   <url>
     <loc>https://hkusttech.github.io/tags/blockchain/</loc>
-    <lastmod>2018-03-18T09:47:12+08:00</lastmod>
+    <lastmod>2018-03-25T09:47:12+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://hkusttech.github.io/events/</loc>
-    <lastmod>2018-03-18T09:47:12+08:00</lastmod>
+    <lastmod>2018-03-25T09:47:12+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hkusttech.github.io/tags/fintech/</loc>
+    <lastmod>2018-03-25T09:47:12+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -47,13 +58,19 @@
   
   <url>
     <loc>https://hkusttech.github.io/</loc>
-    <lastmod>2018-03-18T09:47:12+08:00</lastmod>
+    <lastmod>2018-03-25T09:47:12+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://hkusttech.github.io/tags/hardware/</loc>
     <lastmod>2018-03-09T09:47:12+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hkusttech.github.io/tags/insurance/</loc>
+    <lastmod>2018-03-25T09:47:12+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -77,7 +94,7 @@
   
   <url>
     <loc>https://hkusttech.github.io/tags/</loc>
-    <lastmod>2018-03-18T09:47:12+08:00</lastmod>
+    <lastmod>2018-03-25T09:47:12+08:00</lastmod>
     <priority>0</priority>
   </url>
   
