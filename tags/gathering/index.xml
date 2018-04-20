@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gathering on HKUST Tech Club</title>
+    <link>https://hkusttech.github.io/tags/gathering/</link>
+    <description>Recent content in Gathering on HKUST Tech Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Apr 2018 09:47:12 +0800</lastBuildDate>
+    
+	<atom:link href="https://hkusttech.github.io/tags/gathering/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>#6: The First Social Night</title>
+      <link>https://hkusttech.github.io/events/sixth-meeting-first-social-night/</link>
+      <pubDate>Fri, 06 Apr 2018 09:47:12 +0800</pubDate>
+      
+      <guid>https://hkusttech.github.io/events/sixth-meeting-first-social-night/</guid>
+      <description>Date and Venue The sixth meeting was successfully be held on 2018-04-06 at 7pm. The social night was organized in HKUST Unibar
+Summary First Social Night was FUN! Had a great time talking about aspirations and simply catching up with what everyone’s doing! We’re going to have social nights to meetup over dinner maybe once every two weeks from now on!
+Event photos:
+What is next? This Friday, we will have a “hackathon-themed” Meeting (cuz hackUST is coming up!</description>
+    </item>
+    
+  </channel>
+</rss>

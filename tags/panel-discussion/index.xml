@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Panel Discussion on HKUST Tech Club</title>
+    <link>https://hkusttech.github.io/tags/panel-discussion/</link>
+    <description>Recent content in Panel Discussion on HKUST Tech Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Apr 2018 09:47:12 +0800</lastBuildDate>
+    
+	<atom:link href="https://hkusttech.github.io/tags/panel-discussion/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>#7: Panel Discussion (Hack for Hackathons)</title>
+      <link>https://hkusttech.github.io/events/seventh-meeting-hack-for-hackathons/</link>
+      <pubDate>Fri, 13 Apr 2018 09:47:12 +0800</pubDate>
+      
+      <guid>https://hkusttech.github.io/events/seventh-meeting-hack-for-hackathons/</guid>
+      <description>Date and Venue The seventh meeting - Panel Discussion (Hack for Hackathons) was held on 2018-04-13 at 7pm. The meeting venue was CSE lounge and it is located at lift 25-26, 3rd floor.
+Summary Thank you so much to everyone who came to the meetup last Friday! And huge applause to our wonderful panelists:
+ Peter Chung Kenta Iwasaki Felicia Agatha Isaac Zachary To 李婷婷  We got some meaningful insights about how to gain most out of hackathons and learnt about some of the winning strategies.</description>
+    </item>
+    
+  </channel>
+</rss>
