@@ -1,7 +1,7 @@
 ---
 title: "#7: Panel Discussion (Hack for Hackathons)"
 date: 2018-04-13T09:47:12+08:00
-draft: true
+draft: false
 tags: ["hackathon", "panel discussion"]
 ---
 
