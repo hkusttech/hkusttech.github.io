@@ -14,6 +14,7 @@ The meeting venue was CSE lounge and it is located at lift 25-26, 3rd floor.
 
 
 Thank you so much to everyone who came to the meetup last Friday! And huge applause to our wonderful panelists:
+
 - Peter Chung
 - Kenta Iwasaki
 - Felicia Agatha
