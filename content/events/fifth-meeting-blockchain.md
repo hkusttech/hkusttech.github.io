@@ -1,5 +1,5 @@
 ---
-title: "Fifth Meeting - Blockchain and its application in FinTech and Insurance"
+title: "#5: Blockchain and its application in FinTech and Insurance"
 date: 2018-03-25T09:47:12+08:00
 draft: false
 tags: ["blockchain", "FinTech", "Insurance"]
@@ -7,8 +7,8 @@ tags: ["blockchain", "FinTech", "Insurance"]
 
 ## Date and Venue
 
-The fifth meeting was successfully be held on **2018-03-25 at 7pm**. 
-The meeting venue was CSE lounge and it is located at lift 25-26, 3rd floor. 
+The fifth meeting was successfully be held on **2018-03-25 at 7pm**.
+The meeting venue was CSE lounge and it is located at lift 25-26, 3rd floor.
 
 
 ## Summary

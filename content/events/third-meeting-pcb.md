@@ -1,5 +1,5 @@
 ---
-title: "Third Meeting - KiCAD workshop + Coding game"
+title: "#3: KiCAD workshop + Coding game"
 date: 2018-03-09T09:47:12+08:00
 draft: false
 tags: ["pcb", "hardware"]
