@@ -6,10 +6,19 @@
     <description>Recent content on HKUST Tech Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Apr 2018 09:47:12 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 04 Oct 2018 09:47:12 +0800</lastBuildDate>
     
 	<atom:link href="https://hkusttech.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>3D Printing Technology Capability Map for Use by the Contruction Industry</title>
+      <link>https://hkusttech.github.io/projects/3d-printing-map/</link>
+      <pubDate>Thu, 04 Oct 2018 09:47:12 +0800</pubDate>
+      
+      <guid>https://hkusttech.github.io/projects/3d-printing-map/</guid>
+      <description>How the system works A 3D printing companies database organized prior to data mapping was designed using the relational model. The database holds information on 3D printing organizations where each item referred contains basic information such as organization name; attributes such as current capabilities and types; location information such as city and geolocation; and one or more pictures grouped within galleries. The database also contains information about conventional construction industry companies who collaborate with 3D printing organizations and their identified linkages.</description>
+    </item>
     
     <item>
       <title>#8: Social Night at China Garden</title>
