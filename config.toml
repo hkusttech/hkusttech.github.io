@@ -31,6 +31,11 @@ disqusShortname = "https-hkusttech-github-io" # delete this to disable disqus co
     weight = 2
 
 [[menu.main]]
+    url = "/projects"
+    name = "Projects"
+    weight = 2
+	
+[[menu.main]]
     url = "/about"
     name = "About"
     weight = 3
