@@ -1,5 +1,5 @@
 ---
-title: "[Ongoing] 3D Printing Technology Capability Map for Use by the Contruction Industry"
+title: "[Ongoing] 3D Printing Technology Capability Map"
 date: 2018-10-04T09:47:12+08:00
 draft: false
 tags: ["Geovisualization", "Web Programming", "SQL", "JavaScript", "Civil Tech"]
