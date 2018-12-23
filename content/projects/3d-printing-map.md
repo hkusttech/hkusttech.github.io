@@ -34,4 +34,4 @@ This project will be made accessible to many experts in the construction industr
 I would really like to get to know and work with **driven** and **creative people**. I am looking for people who wish to assist in web development and in backend to frontend integration. 
 This project can also be used as a project topic for courses such as Data Visualization *COMP 4901F*.
 Thanks for your attention and please let me know in the discussions if you have any further questions or comments.
-If you are interested in collaborating you can contact me via **email: [sbesklubova@connect.ust.hk](sbesklubova@connect.ust.hk)**
+If you are interested in collaborating you can contact me via **email: [sbesklubova@connect.ust.hk](mailto:sbesklubova@connect.ust.hk)**
