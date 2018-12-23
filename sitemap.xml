@@ -59,6 +59,12 @@
   </url>
   
   <url>
+    <loc>https://hkusttech.github.io/tags/civil-tech/</loc>
+    <lastmod>2018-10-04T09:47:12+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://hkusttech.github.io/events/</loc>
     <lastmod>2018-04-20T09:47:12+08:00</lastmod>
     <priority>0</priority>
@@ -113,6 +119,12 @@
   </url>
   
   <url>
+    <loc>https://hkusttech.github.io/tags/javascript/</loc>
+    <lastmod>2018-10-04T09:47:12+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://hkusttech.github.io/tags/night/</loc>
     <lastmod>2018-04-20T09:47:12+08:00</lastmod>
     <priority>0</priority>
@@ -151,6 +163,12 @@
   <url>
     <loc>https://hkusttech.github.io/tags/social/</loc>
     <lastmod>2018-04-20T09:47:12+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hkusttech.github.io/tags/sql/</loc>
+    <lastmod>2018-10-04T09:47:12+08:00</lastmod>
     <priority>0</priority>
   </url>
   
