@@ -5,12 +5,12 @@ draft: false
 tags: ["Geovisualization", "Web Programming", "SQL", "JavaScript", "Civil Tech"]
 ---
 
-## Who am I?
+## Who are we?
 
+**Lana**
 
-My name is **Lana**, I am a Ph.D. candidate from CIVL Department, HKUST. My current research focuses on the construction 3D printing industry. 
+I am a Ph.D. candidate from CIVL Department, HKUST. My current research focuses on the construction 3D printing industry. In addition to English, I can speak in Russian as well as Mandarin which I have been learning for several years.
 
-In addition to English, I can speak in Russian as well as Mandarin which I have been learning for several years.
 
 ## What do I want to make?
 
