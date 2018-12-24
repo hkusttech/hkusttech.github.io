@@ -9,7 +9,7 @@ tags: ["Geovisualization", "Web Programming", "SQL", "JavaScript", "Civil Tech"]
 
 **Lana**
 
-![piclana](lana.jpg)
+![piclana](lana_2.jpg)
 
 I am a Ph.D. candidate from CIVL Department, HKUST. My current research focuses on the construction 3D printing industry. In addition to English, I can speak in Russian as well as Mandarin which I have been learning for several years.
 
